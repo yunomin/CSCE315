@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Karby/Off/Kargy_Level_one_off.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
